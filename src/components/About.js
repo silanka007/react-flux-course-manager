@@ -1,6 +1,7 @@
 import React from 'react'
 
 const About = props => {
+    console.log('about')
     return (
         <div>
         <h1 className='display-1'>About Page</h1>
